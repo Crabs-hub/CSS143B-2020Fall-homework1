@@ -16,7 +16,7 @@ public class Problem2 {
         //at least once more.   
         int temp = 0;
         boolean swapped; 
-        for (int i = 0; i < date.length - 1; i++)  
+        for (int i = 0; i < data.length - 1; i++)  
         { 
             swapped = false; 
             for (int j = 0; j < data.length - i - 1; j++)  
