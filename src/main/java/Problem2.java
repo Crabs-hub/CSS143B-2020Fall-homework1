@@ -14,7 +14,7 @@ public class Problem2 {
         //statement that determines if the index j is indeed less than j+1, and if not it swaps them.
         //If the if statement runs, swapped is equated to true, meaning that the code will not break and will continue 
         //at least once more.   
-       
+        int temp = 0;
         boolean swapped; 
         for (int i = 0; i < n - 1; i++)  
         { 
