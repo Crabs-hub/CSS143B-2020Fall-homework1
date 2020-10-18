@@ -19,6 +19,6 @@ public class Problem1 {
                 return mid;
             }
         }
-        return -1; // Place holder 
+        return -1; // Place holder  
     }
 }
